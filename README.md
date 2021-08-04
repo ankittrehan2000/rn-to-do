@@ -3,3 +3,4 @@
 <p> Interactive buttons, settings, reminders and much more </p>
 <br>
 <p> Demo here: </p>
+<img style="max-height: 480px" src="https://github.com/ankittrehan2000/rn-to-do/blob/master/gitf.gif" />
